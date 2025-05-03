@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalk\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReelTalk\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:50:40.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml*",
+              "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-03T08:33:38.934Z",
               "EditorCaption": ""
