@@ -64,12 +64,72 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Genres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Genres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Productions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Productions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Productions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Productions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Productions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdGlvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Shared/Error.cshtml]
@@ -82,6 +142,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Watchlists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Watchlists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Watchlists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Watchlists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/Watchlists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2F0Y2hsaXN0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Yanis/Documents/За училище/11 клас/ItKarietra/ReelTalk/ReelTalk/ReelTalk/Views/_ViewImports.cshtml]
