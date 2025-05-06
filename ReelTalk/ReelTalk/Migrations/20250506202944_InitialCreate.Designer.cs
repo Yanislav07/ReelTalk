@@ -9,10 +9,10 @@ using ReelTalk.Data;
 
 #nullable disable
 
-namespace ReelTalk.Data.Migrations
+namespace ReelTalk.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250503094459_InitialCreate")]
+    [Migration("20250506202944_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

@@ -1,0 +1,58 @@
+﻿@model List<ReelTalk.Models.UserWithRole>
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container py-4">
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped table-hover table-sm align-middle">
+        <thead class="table-dark">
+            <tr>Email</tr>
+            <tr>Role</tr>
+            <tr>ChangeRoleTo</tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                if (user.CurrentRole != "Admin")
+                {
+                    <tr>
+                        <td>@user.Email</td>
+                        <td>@user.CurrentRole</td>
+                        <td>
+                            <form asp-action="AlterRole">
+                                <input type="hidden" name="userId" value="@user.UserId" />
+                                <select name="role">
+                                    <option value="">Choose new role</option>
+                                    <option value="Moderator">Moderator</option>
+                                    <option value="User">Regular user</option>
+                                </select>
+
+                                <button type="submit">Alter role</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+    </div>
+</div>
+
+<div class="justify-content-xxl-start">
+    <h1>Management</h1> <br />
+    <div class="btn-group-vertical gap-2">
+        <ul class="text-decoration-none gap-2">
+            <li>
+                <a class="btn-primary text-decoration-none rounded-2 pe-3 ps-3 p-1" asp-action="Index">Users</a>
+            </li> <br />
+            <li>
+                <a class="btn-primary text-decoration-none rounded-2 pe-3 ps-3 p-1" asp-controller="Genres" asp-action="Index">Genres</a>
+            </li> <br />
+            <li>
+                <a class="btn-primary text-decoration-none rounded-2 pe-3 ps-3 p-1" asp-controller="Productions" asp-action="Index">Productions</a>
+            </li>
+        </ul>
+    </div>
+</div>
