@@ -1,22 +1,92 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    background-color: #11031B;
+    color: #F3E6FC;
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0 ;
+}
+
+.bg-lighter-purple {
+    background-color: #1A0A2E;
+}
+
+/*Navigation bar*/
+.navbar {
+    width: 100%;
+    font-size: large;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 0 2rem;
+}
+
+.nav-buttons {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    justify-content: center;
+}
+
+    .nav-buttons a {
+        position: relative;
+        text-decoration: none;
+        color: #F3E6FC;
+        padding-bottom: 5px;
+    }
+
+        .nav-buttons a::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: #931232;
+            transition: width 0.3s ease;
+        }
+
+        .nav-buttons a:hover::after {
+            width: 100%;
+        }
+
+/*Hero section*/
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: 35rem;
+    overflow: hidden;
+    background-image: url('/images/Joker hero section banner image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #931232;
+    border: none;
+}
+
+    .btn:hover {
+        background-color: #61091f;
+        
+    }
+
+/*Movies section*/
+.movies-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1.5rem;
 }

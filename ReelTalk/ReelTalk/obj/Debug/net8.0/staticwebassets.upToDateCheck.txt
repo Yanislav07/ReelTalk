@@ -1,5 +1,10 @@
+wwwroot\css\auth.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\Joker hero section banner image.jpg
+wwwroot\images\Joker poster.jpg
+wwwroot\images\ReelTalkLogoDesktop.png
+wwwroot\images\ReelTalkLogoMobile.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
