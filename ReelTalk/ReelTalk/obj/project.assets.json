@@ -8358,23 +8358,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adrian\\.nuget\\packages\\": {},
+    "C:\\Users\\Kami\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
+      "projectUniqueName": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
       "projectName": "ReelTalk",
-      "projectPath": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
-      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
+      "projectPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
+      "packagesPath": "C:\\Users\\Kami\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kami\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8383,6 +8383,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
