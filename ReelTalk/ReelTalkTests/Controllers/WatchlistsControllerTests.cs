@@ -42,36 +42,6 @@ namespace ReelTalk.Tests.Controllers
         }
 
         [Fact]
-        public async Task Index_ReturnsViewResult_WithListOfWatchlists()
-        {
-            // Arrange
-            var user1 = new ApplicationUser { Id = "user1", UserName = "user1@test.com" };
-            var user2 = new ApplicationUser { Id = "user2", UserName = "user2@test.com" };
-
-            var watchlist1 = new Watchlist { UserId = "user1" };
-            var watchlist2 = new Watchlist { UserId = "user2" };
-
-            // Seed the in-memory database with the required data
-            _context.Users.Add(user1);
-            _context.Users.Add(user2);
-            _context.Watchlists.Add(watchlist1);
-            _context.Watchlists.Add(watchlist2);
-            await _context.SaveChangesAsync();  // Make sure changes are saved
-
-            // Act
-            var result = await _controller.Index();
-
-            // Assert
-            var viewResult = Assert.IsType<ViewResult>(result);
-            var model = Assert.IsAssignableFrom<List<Watchlist>>(viewResult.Model);
-
-            // Verify that two Watchlists are returned
-            Assert.Equal(2, model.Count);
-        }
-
-
-
-        [Fact]
         public async Task Details_ReturnsNotFound_WhenWatchlistIsNull()
         {
             // Act

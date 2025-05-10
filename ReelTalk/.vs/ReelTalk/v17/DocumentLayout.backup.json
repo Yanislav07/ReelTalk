@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalktests\\controllers\\watchlistscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\watchlistscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalk\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalktests\\userwithroletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\userwithroletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,10 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalktests\\controllers\\watchlistscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\watchlistscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalktests\\errorviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -128,10 +132,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalk\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalk\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\yanis\\documents\\\u0437\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\itkarietra\\reeltalk\\reeltalk\\reeltalk\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -240,7 +240,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -260,19 +260,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Watchlists\\Index.cshtml",
-              "RelativeDocumentMoniker": "ReelTalk\\Views\\Watchlists\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Watchlists\\Index.cshtml",
-              "RelativeToolTip": "ReelTalk\\Views\\Watchlists\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T21:12:52.5Z"
+              "WhenOpened": "2025-05-10T21:12:52.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Details.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T21:12:52.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Production.cs",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Production.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Data\\Production.cs",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Production.cs",
+              "RelativeToolTip": "ReelTalk\\Data\\Production.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:12:52.568Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserWithRoleTests.cs",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\UserWithRoleTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\UserWithRoleTests.cs",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\UserWithRoleTests.cs",
+              "RelativeToolTip": "ReelTalkTests\\UserWithRoleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:12:52.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv4AAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:12:52.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WatchlistsController.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\WatchlistsController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\WatchlistsController.cs",
@@ -284,7 +333,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "WatchlistsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
+              "RelativeToolTip": "ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:12:52.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\ProductionsController.cs",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
+              "RelativeToolTip": "ReelTalk\\Controllers\\ProductionsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:12:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Comment.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Comment.cs",
@@ -297,67 +371,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductionsController.cs",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\ProductionsController.cs",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
-              "RelativeToolTip": "ReelTalk\\Controllers\\ProductionsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:12:52.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
-              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
-              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Watchlists\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Watchlists\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Watchlists\\Index.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Watchlists\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T21:12:52.495Z"
+              "WhenOpened": "2025-05-10T21:12:52.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
-              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
-              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Details.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T21:12:52.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Production.cs",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Production.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Data\\Production.cs",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Production.cs",
-              "RelativeToolTip": "ReelTalk\\Data\\Production.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:12:52.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserWithRoleTests.cs",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\UserWithRoleTests.cs",
-              "RelativeDocumentMoniker": "ReelTalkTests\\UserWithRoleTests.cs",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\UserWithRoleTests.cs",
-              "RelativeToolTip": "ReelTalkTests\\UserWithRoleTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:12:52.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
@@ -369,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModelTests.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\ErrorViewModelTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\ErrorViewModelTests.cs",
@@ -381,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ReelTalkTests.csproj",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
               "RelativeDocumentMoniker": "ReelTalkTests\\ReelTalkTests.csproj",
@@ -393,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GenresControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\GenresControllerTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\GenresControllerTests.cs",
@@ -405,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\ApplicationDbContext.cs",
@@ -417,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HomeControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\HomeControllerTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\HomeControllerTests.cs",
@@ -429,19 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WatchlistsControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
-              "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
-              "RelativeToolTip": "ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:12:52.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProductionControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\ProductionControllerTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\ProductionControllerTests.cs",
@@ -453,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CommentsControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\CommentsControllerTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\CommentsControllerTests.cs",
@@ -465,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CommentsController.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\CommentsController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\CommentsController.cs",
@@ -477,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\HomeController.cs",
@@ -489,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GenresController.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\GenresController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\GenresController.cs",
@@ -501,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AdministrationControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\AdministrationControllerTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\AdministrationControllerTests.cs",
@@ -513,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ProductionWithCommentsTests.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\ProductionWithCommentsTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\ProductionWithCommentsTests.cs",
@@ -525,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Watchlist.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Watchlist.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Watchlist.cs",
@@ -537,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "WatchlistProduction.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\WatchlistProduction.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\WatchlistProduction.cs",
@@ -549,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AdministrationController.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\AdministrationController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\AdministrationController.cs",
@@ -561,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Shared\\_Layout.cshtml",
@@ -573,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Home\\Index.cshtml",
@@ -585,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Program.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Program.cs",
@@ -597,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "UserWithRole.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Models\\UserWithRole.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Models\\UserWithRole.cs",
@@ -609,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ProductionWithComments.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Models\\ProductionWithComments.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Models\\ProductionWithComments.cs",
@@ -633,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -645,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -654,18 +667,6 @@
               "ViewState": "AgIAAGYAAAAAAAAAAADwv3kAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T21:12:52.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAADwv3oAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:12:52.531Z"
             },
             {
               "$type": "Document",
