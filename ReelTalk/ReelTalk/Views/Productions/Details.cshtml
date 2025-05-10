@@ -12,7 +12,7 @@
 	<title>Details</title>
 </head>
 <body>
-	<div class="container bg-lighter-purple rounded-3">
+	<div class="container bg-lighter-purple" style="border-radius: 12px">
 		<div class="d-flex gap-4 align-items-end p-4">
 			<div class="card border-0 bg-transparent" style="width:200px;">
 				<img src="@Model.ImagePath"
@@ -22,12 +22,12 @@
 			<div class="d-flex flex-column pb-1">
 				<h2>@Model.Title</h2>
 				<p>Rating goes here</p>
-				<div class="d-flex gap-4 align-items-center">
+				<div class="d-flex gap-3 align-items-center">
 					<a href="" class="btn btn-secondary">Watch trailer</a>
-					<i class="bi bi-eye"></i>
-					<i class="bi bi-heart"></i>
-					<i class="bi bi-share-fill"></i>
-					<i class="bi bi-bookmark"></i>
+					<i class="bi bi-eye icon-btn fs-4"></i>
+					<i class="bi bi-heart fs-5"></i>
+					<i class="bi bi-share-fill fs-5"></i>
+					<i class="bi bi-bookmark fs-5"></i>
 				</div>
 			</div>
 		</div>
@@ -54,7 +54,7 @@
 			</div>
 			<div>
 				<h3>Genres</h3>
-				<p>@Model.GenreId Shows the Id </p>
+				<p>@(Model.Genre?.Name ?? "No Genre Specified")</p>
 			</div>
 		</div>
 	</div>

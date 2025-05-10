@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A6z809EzWtwDg5uMCcjlGUo5usxgOkJFdTBemj2Inrg=",
+  "Hash": "L3k+lWe7rjoPCuvQIWJtxYu+Bj72IVcA83DFh7F94tw=",
   "Source": "ReelTalk",
   "BasePath": "_content/ReelTalk",
   "Mode": "Default",
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zt41vs38a3",
-      "Integrity": "t216gPAgJLdwhY70sKnmTfdnf1cQWGMX/2B1YjhctjY=",
+      "Fingerprint": "8nij4iam4x",
+      "Integrity": "JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2768,6 +2768,51 @@
       ]
     },
     {
+      "Route": "css/site.8nij4iam4x.css",
+      "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 07:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8nij4iam4x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2778,7 +2823,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2659"
+          "Value": "2752"
         },
         {
           "Name": "Content-Type",
@@ -2786,11 +2831,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t216gPAgJLdwhY70sKnmTfdnf1cQWGMX/2B1YjhctjY=\""
+          "Value": "\"JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:47:59 GMT"
+          "Value": "Sat, 10 May 2025 07:22:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2800,52 +2845,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t216gPAgJLdwhY70sKnmTfdnf1cQWGMX/2B1YjhctjY="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.zt41vs38a3.css",
-      "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2659"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"t216gPAgJLdwhY70sKnmTfdnf1cQWGMX/2B1YjhctjY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:47:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zt41vs38a3"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-t216gPAgJLdwhY70sKnmTfdnf1cQWGMX/2B1YjhctjY="
+          "Value": "sha256-JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw="
         }
       ]
     },

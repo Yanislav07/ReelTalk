@@ -133,6 +133,12 @@ hr {
 
 .bi {
     color: #BC79EF;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.bi:hover{
+    color: rebeccapurple;
 }
 
 h3 {
