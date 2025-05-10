@@ -45,8 +45,18 @@
                 <li><a asp-area="" asp-controller="Productions" asp-action="Index">Browse</a></li>
                     @if (SignInManager.IsSignedIn(User))
                     {
+<<<<<<< HEAD
                         <li >
                             <a asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+=======
+<<<<<<< HEAD
+                        <li >
+                            <a asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+=======
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity?.Name!</a>
+>>>>>>> frontend
+>>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
                         </li>
                         <li class="nav-item">
                             <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
