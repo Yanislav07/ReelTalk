@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ReelTalkTests
 {
-    
+
     public class ErrorViewModelTests
     {
         [Fact]

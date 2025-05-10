@@ -8358,23 +8358,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Yanis\\.nuget\\packages\\": {},
+    "C:\\Users\\Kami\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
+      "projectUniqueName": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
       "projectName": "ReelTalk",
-      "projectPath": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
-      "packagesPath": "C:\\Users\\Yanis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
+      "projectPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
+      "packagesPath": "C:\\Users\\Kami\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Yanis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kami\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8402,7 +8402,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -8456,7 +8456,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

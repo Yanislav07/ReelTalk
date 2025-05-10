@@ -28,20 +28,7 @@ namespace ReelTalk.Controllers
             return View(await applicationDbContext.ToListAsync());
         }
 
-        public async Task<IActionResult> AddToWatchlist(int? productionId)
-        {
-            // Fetch the id of the currently logged user
-            var userId = _userManager.GetUserId(User);
-
-            var watchlist = await _context.Watchlists
-                .Include(w => w.WatchlistProductions)
-                .FirstOrDefaultAsync(w => w.UserId == userId);
-
-            if (watchlist != null)
-            {
-
-            }
-        }
+    
 
         // GET: Watchlists/Details/5
         public async Task<IActionResult> Details(int? id)

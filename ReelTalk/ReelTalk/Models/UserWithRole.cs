@@ -1,4 +1,5 @@
-﻿namespace ReelTalk.Models
+﻿
+namespace ReelTalk.Models
 {
     public class UserWithRole
     {
@@ -6,6 +7,7 @@
         public string Email { get; set; }
         public string CurrentRole { get; set; }
         public string NewRole { get; set; }
+        public IEnumerable<char>? Role { get; set; }
 
         public UserWithRole(string userId, string email, string currentRole)
         {

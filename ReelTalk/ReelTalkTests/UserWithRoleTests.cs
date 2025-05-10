@@ -1,4 +1,4 @@
-using ReelTalk.Models;
+﻿using ReelTalk.Models;
 
 
 namespace ReelTalkTests
@@ -13,6 +13,6 @@ namespace ReelTalkTests
             Assert.Equal("Admin", user.CurrentRole); // Use Assert.Equal instead of Assert.AreEqual
         }
 
-        
+
     }
 }
