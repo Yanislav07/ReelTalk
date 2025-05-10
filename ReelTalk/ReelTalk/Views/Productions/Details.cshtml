@@ -1,69 +1,70 @@
 ﻿@model ReelTalk.Data.Production
 
 @{
-    Layout = null;
+	Layout = "_Layout";
 }
 
 <!DOCTYPE html>
 
 <html>
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Details</title>
+	<meta name="viewport" content="width=device-width" />
+	<title>Details</title>
 </head>
 <body>
+	<div class="container bg-lighter-purple rounded-3">
+		<div class="d-flex gap-4 align-items-end p-4">
+			<div class="card border-0 bg-transparent" style="width:200px;">
+				<img src="@Model.ImagePath"
+					 class="rounded-3 shadow"
+					 alt="@Model.Title" />
+			</div>
+			<div class="d-flex flex-column pb-1">
+				<h2>@Model.Title</h2>
+				<p>Rating goes here</p>
+				<div class="d-flex gap-4 align-items-center">
+					<a href="" class="btn btn-secondary">Watch trailer</a>
+					<i class="bi bi-eye"></i>
+					<i class="bi bi-heart"></i>
+					<i class="bi bi-share-fill"></i>
+					<i class="bi bi-bookmark"></i>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container d-flex justify-content-between p-5 gap-5">
+		<div>
+			<p>@Model.Description</p>
+			<h2>Reviews</h2>
+			<p>Review goes here</p>
+		</div>
+		<div class="d-flex flex-column" style="min-width: 10rem; flex-shrink: 0;">
+			<h2>About</h2>
+			<div>
+				<h3>Director</h3>
+				<p>Director goes here</p>
+			</div>
+			<div>
+				<h3>Release date</h3>
+				<p>@Model.ReleaseYear</p>
+			</div>
+			<div>
+				<h3>Duration</h3>
+				<p>@Model.Duration</p>
+			</div>
+			<div>
+				<h3>Genres</h3>
+				<p>@Model.GenreId Shows the Id </p>
+			</div>
+		</div>
+	</div>
 
-<div>
-    <h4>Production</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Title)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Title)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ReleaseYear)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ReleaseYear)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Duration)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Duration)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Description)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Description)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ImagePath)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImagePath)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Type)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Type)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Genre)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Genre.Name)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+	<!--Only if admin-->
+	<div class="container pb-5 mb-3 d-flex gap-3">
+		<a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>
+		<a class="btn btn-primary" asp-action="Delete" asp-route-id="@Model?.Id">Delete</a>
+		<a class="btn btn-primary" asp-action="Index">Back to List</a>
+	</div>
+
 </body>
 </html>

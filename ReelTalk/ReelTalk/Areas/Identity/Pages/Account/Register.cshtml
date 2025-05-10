@@ -9,7 +9,7 @@
 <div class="logo-in-auth">
 	<a asp-area="" asp-controller="Home" asp-action="Index"><img src="/images/ReelTalkLogoDesktop.png" alt="ReelTalk logo"></a>
 </div>
-<div class="auth-container mb-5">
+<div class="auth-container">
 	<div class="auth-header">
 		<h1>Create account</h1>
 		<p>Join our community of show enthusiasts</p>
@@ -40,7 +40,11 @@
 	<div class="switch-auth-page">
 		<p>Already have an account? <a asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl">Sign in</a></p>
 	</div>
+	<div class="d-flex justify-content-center">
+		<a class="btn btn-secondary" asp-controller="Home" asp-action="Index">Go home</a>
+	</div>
 </div>
+<div class="p-5"></div>
 @section Scripts {
 	<partial name="_ValidationScriptsPartial" />
 }

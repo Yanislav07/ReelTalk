@@ -1,24 +1,43 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<ReelTalk.Data.Production>
+
+@{
+	ViewData["Title"] = "Home Page";
 }
 
-
 <section class="hero-section position-relative">
-    <div class="hero-content text-white text-center p-4">
-        <h1 class="">
-            Track films you've watched.<br />
-            Save those you want to see.<br />
-            Tell your friends what's good.
-        </h1>
-        <a class="btn btn-primary py-1 px-3 fs-4 mt-2" asp-area="Identity" asp-page="/Account/Register">Get started</a>
-    </div>
+	<div class="hero-content text-white text-center p-4">
+		<h1 class="">
+			Track films you've watched.<br />
+			Save those you want to see.<br />
+			Tell your friends what's good.
+		</h1>
+		<a class="btn btn-primary py-1 px-3 fs-4 mt-2" asp-area="Identity" asp-page="/Account/Register">Get started</a>
+	</div>
 </section>
 
-<section class="movies-section pb-5">
-    <div class="movies-header px-3">
-        <h1 class="fs-2">Trending now</h1>
-        <a class="text-decoration-none text-white" asp-area="" asp-controller="Productions" asp-action="Index">MORE</a>
-    </div>
-    <hr />
+<section class="movies-section">
+	<div class="movies-header px-3">
+		<h1 class="fs-2">Trending now</h1>
+		<a class="text-decoration-none text-white" asp-area="" asp-controller="Productions" asp-action="Index">MORE</a>
+	</div>
+
+	<div class="container-fluid px-4">
+		<hr/>
+		<div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">
+			@foreach (var item in Model)
+			{
+				<div class="col">
+					<a asp-controller="Productions" asp-action="Details" asp-route-id="@item.Id">
+						<div class="card border-0 bg-transparent">
+							<img src="@item.ImagePath"
+								 class="card-img rounded-3 shadow"
+								 alt="@item.Title" />
+						</div>
+					</a>
+				</div>
+			}
+		</div>
+	</div>
+
 </section>
 
