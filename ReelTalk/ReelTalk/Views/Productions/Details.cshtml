@@ -14,12 +14,14 @@
         </div>
         <div class="d-flex flex-column pb-1">
             <h2>@Model.Production.Title</h2>
-            <p>Rating goes here</p>
             <div class="d-flex gap-3 align-items-center">
                 <a href="" class="btn btn-secondary">Watch trailer</a>
-                <i class="bi bi-eye icon-btn fs-4"></i>
-                <i class="bi bi-heart fs-5"></i>
-                <i class="bi bi-share-fill fs-5"></i>
+                <form asp-controller="Watchlists" asp-action="AddToWatchlist">
+                    <input type="hidden" name="productionId" value="@Model.Production.Id" />
+                    <button type="submit" class="btn btn-outline-secondary btn-sm rounded-circle bg-transparent">
+                        <i class="bi bi-heart fs-5"></i>
+                    </button>
+                </form>
             </div>
         </div>
     </div>

@@ -1,9 +1,26 @@
-﻿@model IEnumerable<ReelTalk.Data.Watchlist>
+﻿@model IEnumerable<ReelTalk.Data.Production>
 
 @{
     Layout = null;
 }
 
 <body>
-
+	<section class="movies-section">
+		<div class="container-fluid px-4">
+			<div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">
+				@foreach (var item in Model)
+				{
+					<div class="col">
+						<a asp-controller="Productions" asp-action="Details" asp-route-id="@item.Id">
+							<div class="card border-0 bg-transparent">
+								<img src="@item.ImagePath"
+									 class="card-img rounded-3 shadow"
+									 alt="@item.Title" />
+							</div>
+						</a>
+					</div>
+				}
+			</div>
+		</div>
+	</section>
 </body>

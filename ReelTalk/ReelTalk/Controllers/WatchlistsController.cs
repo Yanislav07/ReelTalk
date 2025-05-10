@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -24,11 +26,63 @@ namespace ReelTalk.Controllers
         // GET: Watchlists
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Watchlists.Include(w => w.User);
-            return View(await applicationDbContext.ToListAsync());
+            var userId = _userManager.GetUserId(User);
+
+            // Load the watchlist including the related productions
+            var watchlist = await _context.Watchlists
+                .Include(w => w.WatchlistProductions)
+                .ThenInclude(wp => wp.Production)
+                .FirstOrDefaultAsync(w => w.UserId == userId);
+
+            var productions = watchlist?.WatchlistProductions
+                .Select(wp => wp.Production)
+                .ToList() ?? new List<Production>();
+
+            return View(productions);
         }
 
+<<<<<<< HEAD
 
+=======
+        [Authorize]
+        public async Task<IActionResult> AddToWatchlist(int productionId)
+        {
+            // Fetch the id of the currently logged user
+            var userId = _userManager.GetUserId(User);
+
+            var watchlist = await _context.Watchlists
+                .Include(w => w.WatchlistProductions)
+                .FirstOrDefaultAsync(w => w.UserId == userId);
+
+            if (watchlist == null)
+            {
+                watchlist = new Watchlist { UserId = userId };
+                _context.Watchlists.Add(watchlist);
+                await _context.SaveChangesAsync(); // Save here to get the watchlist ID
+            }
+
+            var alreadyAdded = watchlist.WatchlistProductions
+                .Any(wp => wp.ProductionId == productionId);
+
+            if (!alreadyAdded)
+            {
+                var production = await _context.Productions.FindAsync(productionId);
+                if (production == null)
+                    return NotFound();
+
+                var watchlistProduction = new WatchlistProduction
+                {
+                    Watchlist = watchlist,
+                    Production = production
+                };
+
+                _context.WatchlistProduction.Add(watchlistProduction);
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToAction("Details", "Productions", new { id = productionId });
+        }
+>>>>>>> 514d26546c01867f5e844420f29a90264bf6d418
 
         // GET: Watchlists/Details/5
         public async Task<IActionResult> Details(int? id)

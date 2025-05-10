@@ -10,7 +10,12 @@ namespace ReelTalk.Data
         public DbSet<Genre> Genres { get; set; }
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Watchlist> Watchlists { get; set; }
+<<<<<<< HEAD
         public object WatchlistProduction { get; internal set; }
+=======
+        public DbSet<WatchlistProduction> WatchlistProduction { get; set; }
+
+>>>>>>> 514d26546c01867f5e844420f29a90264bf6d418
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
