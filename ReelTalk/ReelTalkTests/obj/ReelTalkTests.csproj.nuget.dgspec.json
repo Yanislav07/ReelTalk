@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj": {}
+    "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj": {
+    "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
+        "projectUniqueName": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
         "projectName": "ReelTalkTests",
-        "projectPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
-        "packagesPath": "C:\\Users\\Kami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\obj\\",
+        "projectPath": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
+        "packagesPath": "C:\\Users\\Yanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalkTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yanis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj": {
-                "projectPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj"
+              "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj": {
+                "projectPath": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj"
               }
             }
           }
@@ -49,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -96,24 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj": {
+    "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
+        "projectUniqueName": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
         "projectName": "ReelTalk",
-        "projectPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
-        "packagesPath": "C:\\Users\\Kami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
+        "projectPath": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
+        "packagesPath": "C:\\Users\\Yanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yanis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -141,7 +141,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -195,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
