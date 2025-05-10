@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using NuGet.Versioning;
 using ReelTalk.Data;
+using ReelTalk.Models;
 
 namespace ReelTalk.Controllers
 {
@@ -36,12 +39,42 @@ namespace ReelTalk.Controllers
             var production = await _context.Productions
                 .Include(p => p.Genre)
                 .FirstOrDefaultAsync(m => m.Id == id);
+
             if (production == null)
             {
                 return NotFound();
             }
 
-            return View(production);
+            var comments = await _context.Comments
+                .Where(c => c.ProductionId == id)
+                .ToListAsync();
+
+            var productionWithComments = new ProductionWithComments(production, comments);
+
+            return View(productionWithComments);
+        }
+
+        public async Task<IActionResult> PostComment(Comment comment)
+        {
+            // Check if the user is logged
+            if (!User.Identity.IsAuthenticated)
+            {
+                TempData["AlertMessage"] = "You must be logged in to post a comment!";
+                return RedirectToAction("Details", new { id = comment.ProductionId });
+            }
+            else if (comment.Content.IsNullOrEmpty())
+            {
+                TempData["AlertMessage"] = "You cannot post an empty comment!";
+                return RedirectToAction("Details", new { id = comment.ProductionId });
+            }
+
+            // Assigning the userId into the Comment object
+            comment.UserId = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value;
+
+            await _context.Comments.AddAsync(comment);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Details", new { id = comment.ProductionId });
         }
 
         // GET: Productions/Create

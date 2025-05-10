@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReelTalk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd0e768530feb73883efb3ef15aa392258d78ddb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1049d8a756c00792ebee95f61c7ec3b3d6daddc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReelTalk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReelTalk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
