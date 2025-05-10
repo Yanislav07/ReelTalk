@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pAfAB4Bk0FQINlETL0kPyNkzIcQhYchnJOM7zixy2tI=",
+  "Hash": "C1ea1mhCNbHZRCFmQtPTPGQ5JQWRnwsfYkZr7jYgVFc=",
   "Source": "ReelTalk",
   "BasePath": "_content/ReelTalk",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "elsfwy499c",
-      "Integrity": "gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=",
+      "Fingerprint": "d5n42f74x7",
+      "Integrity": "MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\auth.css"
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f506ks57bf",
-      "Integrity": "vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE=",
+      "Fingerprint": "i0nemigcjm",
+      "Integrity": "Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2696,7 +2696,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1874"
+          "Value": "1915"
         },
         {
           "Name": "Content-Type",
@@ -2704,11 +2704,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\""
+          "Value": "\"MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:11:27 GMT"
+          "Value": "Sat, 10 May 2025 08:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2718,12 +2718,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="
+          "Value": "sha256-MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY="
         }
       ]
     },
     {
-      "Route": "css/auth.elsfwy499c.css",
+      "Route": "css/auth.d5n42f74x7.css",
       "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\auth.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2733,7 +2733,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1874"
+          "Value": "1915"
         },
         {
           "Name": "Content-Type",
@@ -2741,11 +2741,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\""
+          "Value": "\"MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:11:27 GMT"
+          "Value": "Sat, 10 May 2025 08:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2755,7 +2755,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elsfwy499c"
+          "Value": "d5n42f74x7"
         },
         {
           "Name": "label",
@@ -2763,7 +2763,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="
+          "Value": "sha256-MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY="
         }
       ]
     },
@@ -2778,7 +2778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1890"
+          "Value": "2903"
         },
         {
           "Name": "Content-Type",
@@ -2786,11 +2786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE=\""
+          "Value": "\"Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:11:27 GMT"
+          "Value": "Sat, 10 May 2025 08:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2800,12 +2800,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE="
+          "Value": "sha256-Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI="
         }
       ]
     },
     {
-      "Route": "css/site.f506ks57bf.css",
+      "Route": "css/site.i0nemigcjm.css",
       "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2815,7 +2815,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1890"
+          "Value": "2903"
         },
         {
           "Name": "Content-Type",
@@ -2823,11 +2823,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE=\""
+          "Value": "\"Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:11:27 GMT"
+          "Value": "Sat, 10 May 2025 08:18:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2837,7 +2837,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f506ks57bf"
+          "Value": "i0nemigcjm"
         },
         {
           "Name": "label",
@@ -2845,7 +2845,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE="
+          "Value": "sha256-Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI="
         }
       ]
     },
@@ -10258,7 +10258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 15:09:35 GMT"
+          "Value": "Sat, 10 May 2025 08:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10295,7 +10295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 15:09:35 GMT"
+          "Value": "Sat, 10 May 2025 08:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10340,7 +10340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 15:09:35 GMT"
+          "Value": "Sat, 10 May 2025 08:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10385,7 +10385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 15:09:35 GMT"
+          "Value": "Sat, 10 May 2025 08:42:27 GMT"
         },
         {
           "Name": "Cache-Control",

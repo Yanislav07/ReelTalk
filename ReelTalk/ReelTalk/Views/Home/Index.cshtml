@@ -1,61 +1,42 @@
-﻿@model List<ReelTalk.Data.Production>
+@model IEnumerable<ReelTalk.Data.Production>
 
 @{
-    ViewData["Title"] = "Home Page";
+	ViewData["Title"] = "Home Page";
 }
 
 <section class="hero-section position-relative">
-    <div class="hero-content text-white text-center p-4">
-        <h1 class="">
-            Track films you've watched.<br />
-            Save those you want to see.<br />
-            Tell your friends what's good.
-        </h1>
-        <a class="btn btn-primary py-1 px-3 fs-4 mt-2" asp-area="Identity" asp-page="/Account/Register">Get started</a>
-    </div>
+	<div class="hero-content text-white text-center p-4">
+		<h1 class="">
+			Track films you've watched.<br />
+			Save those you want to see.<br />
+			Tell your friends what's good.
+		</h1>
+		<a class="btn btn-primary py-1 px-3 fs-4 mt-2" asp-area="Identity" asp-page="/Account/Register">Get started</a>
+	</div>
 </section>
 
-<section class="movies-section pb-5">
-    <div class="movies-header px-3">
-        <h1 class="fs-2">Trending now</h1>
-        <a class="text-decoration-none text-white" asp-area="" asp-controller="Productions" asp-action="Index">MORE</a>
-    </div>
-    <hr />
+<section class="movies-section">
+	<div class="movies-header px-3">
+		<h1 class="fs-2">Trending now</h1>
+		<a class="text-decoration-none text-white" asp-area="" asp-controller="Productions" asp-action="Index">MORE</a>
+	</div>
+
+	<div class="container-fluid px-4">
+		<hr/>
+		<div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">
+			@foreach (var item in Model)
+			{
+				<div class="col">
+					<a asp-controller="Productions" asp-action="Details" asp-route-id="@item.Id">
+						<div class="card border-0 bg-transparent">
+							<img src="@item.ImagePath"
+								 class="card-img rounded-3 shadow"
+								 alt="@item.Title" />
+						</div>
+					</a>
+				</div>
+			}
+		</div>
+	</div>
+
 </section>
-
-
-<!-- Main Content -->
-<div class="container my-4">
-    <h2 class="mb-4">Popular Movies & Shows</h2>
-
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-        @foreach (var production in Model)
-        {
-            <div class="col">
-                <div class="card h-100">
-                    <div class="position-relative">
-                        <a href="movie-detail.html">
-                            <img src="@production.ImagePath" class="card-img-top" alt="Inception">
-                        </a>
-                        <div class="rating">
-                            <i class="bi bi-star-fill"></i> 8.8
-                        </div>
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title">@production.Title</h5>
-                        <div class="d-flex justify-content-between align-items-center mb-2">
-                            <span class="text-muted">@production.ReleaseYear</span>
-                            <span class="badge bg-secondary">@production.Type</span>
-                        </div>
-                        <div class="d-flex justify-content-between align-items-center">
-                            <span class="badge bg-primary">@production.Genre</span>
-                        </div>
-                    </div>
-                    <div class="card-footer bg-transparent">
-                        <a href="movie-detail.html" class="btn btn-outline-primary w-100">View Details</a>
-                    </div>
-                </div>
-            </div>
-        }
-    </div>
-</div>

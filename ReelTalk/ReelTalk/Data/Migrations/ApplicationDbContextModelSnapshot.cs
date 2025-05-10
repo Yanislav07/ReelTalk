@@ -260,7 +260,7 @@ namespace ReelTalk.Data.Migrations
 
                     b.HasIndex("UserId1");
 
-                    b.ToTable("Comments");
+                    b.ToTable("Comments", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.Genre", b =>
@@ -277,7 +277,7 @@ namespace ReelTalk.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Genres");
+                    b.ToTable("Genres", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.Production", b =>
@@ -317,7 +317,7 @@ namespace ReelTalk.Data.Migrations
 
                     b.HasIndex("GenreId");
 
-                    b.ToTable("Productions");
+                    b.ToTable("Productions", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.Watchlist", b =>
@@ -337,7 +337,7 @@ namespace ReelTalk.Data.Migrations
                     b.HasIndex("UserId")
                         .IsUnique();
 
-                    b.ToTable("Watchlists");
+                    b.ToTable("Watchlists", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.WatchlistProduction", b =>
@@ -355,7 +355,7 @@ namespace ReelTalk.Data.Migrations
 
                     b.HasIndex("ProductionId");
 
-                    b.ToTable("WatchlistProduction");
+                    b.ToTable("WatchlistProduction", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.ApplicationUser", b =>
