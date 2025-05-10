@@ -8,6 +8,7 @@
 
 <div class="logo-in-auth">
 	<a asp-area="" asp-controller="Home" asp-action="Index"><img src="/images/ReelTalkLogoDesktop.png" alt="ReelTalk logo"></a>
+<<<<<<< HEAD
 </div>
 <div class="auth-container mb-5">
 	<div class="auth-header">
@@ -41,6 +42,45 @@
 		<p>Already have an account? <a asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl">Sign in</a></p>
 	</div>
 </div>
+=======
+</div>
+<div class="auth-container">
+	<div class="auth-header">
+		<h1>Create account</h1>
+		<p>Join our community of show enthusiasts</p>
+	</div>
+	<form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+		<div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+		<div class="form-group">
+			<label asp-for="Input.Username">Username</label>
+			<input asp-for="Input.Username" class="form-control" autocomplete="username" aria-required="true" placeholder="username">
+		</div>
+		<div class="form-group">
+			<label asp-for="Input.Email">Email</label>
+			<input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+			<span asp-validation-for="Input.Email" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Input.Password">Password</label>
+			<input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+			<span asp-validation-for="Input.Password" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Input.ConfirmPassword">Confirm Password</label>
+			<input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+			<span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+		</div>
+		<button id="registerSubmit" type="submit" class="auth-button">Register</button>
+	</form>
+	<div class="switch-auth-page">
+		<p>Already have an account? <a asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl">Sign in</a></p>
+	</div>
+	<div class="d-flex justify-content-center">
+		<a class="btn btn-secondary" asp-controller="Home" asp-action="Index">Go home</a>
+	</div>
+</div>
+<div class="p-5"></div>
+>>>>>>> frontend
 @section Scripts {
 	<partial name="_ValidationScriptsPartial" />
 }

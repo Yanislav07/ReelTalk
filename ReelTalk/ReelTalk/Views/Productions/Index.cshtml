@@ -1,79 +1,40 @@
 ﻿@model IEnumerable<ReelTalk.Data.Production>
 
 @{
-    Layout = null;
+	Layout = "_Layout";
 }
 
 <!DOCTYPE html>
 
 <html>
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
+	<meta name="viewport" content="width=device-width" />
+	<title>Index</title>
 </head>
 <body>
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Title)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ReleaseYear)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Duration)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ImagePath)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Type)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Genre)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Title)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ReleaseYear)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Duration)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ImagePath)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Type)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Genre.Name)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+	<p>
+		<a asp-action="Create" class="btn btn-primary ms-4 my-2">Create New</a>
+	</p>
+	@* 	<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+	<a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+	<a asp-action="Delete" asp-route-id="@item.Id">Delete</a> *@
+
+	<div class="container-fluid px-4">
+		<div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">
+			@foreach (var item in Model)
+			{
+				<div class="col">
+					<a asp-action="Details" asp-route-id="@item.Id">
+						<div class="card border-0 bg-transparent">
+							<img src="@item.ImagePath"
+								 class="card-img rounded-3 shadow"
+								 alt="@item.Title" />
+						</div>
+					</a>
+				</div>
+			}
+		</div>
+	</div>
+
 </body>
 </html>

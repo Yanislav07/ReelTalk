@@ -12,7 +12,11 @@ body {
     color: #F3E6FC;
     font-family: "Roboto", sans-serif;
     margin: 0;
+<<<<<<< HEAD
     padding: 0 ;
+=======
+    padding: 0;
+>>>>>>> frontend
 }
 
 .bg-lighter-purple {
@@ -80,7 +84,10 @@ body {
 
     .btn:hover {
         background-color: #61091f;
+<<<<<<< HEAD
         
+=======
+>>>>>>> frontend
     }
 
 /*Movies section*/
@@ -89,4 +96,64 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-top: 1.5rem;
+<<<<<<< HEAD
+=======
+    margin-bottom: -1rem;
+}
+
+.card-img {
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 5rem;
+}
+
+    .card-img:hover {
+        transform: translateY(-8px);
+    }
+
+
+
+.btn-secondary {
+    background: #BC79EF;
+}
+
+    .btn-secondary:hover {
+        background-color: rebeccapurple;
+    }
+
+input.form-control:focus {
+    color: #F3E6FC; /* or any desired color */
+}
+
+.form-control {
+    border: 1px solid #BC79EF;
+    background-color: #11031B;
+    color: #F3E6FC;
+}
+
+    .form-control:focus {
+        background-color: #11031B;
+    }
+
+hr {
+    color: #F3E6FC;
+    opacity: 1;
+}
+
+.bi {
+    color: #BC79EF;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.bi:hover{
+    color: rebeccapurple;
+}
+
+h3 {
+    color: #BC79EF;
+    font-size: medium;
+    margin: 0;
+>>>>>>> frontend
 }

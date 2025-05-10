@@ -1,6 +1,7 @@
 ﻿@page
 @model LoginModel
 
+<<<<<<< HEAD
 
 @{
 	ViewData["Title"] = "Log in";
@@ -46,6 +47,12 @@
     </div>
 </div> *@
 
+=======
+
+@{
+	ViewData["Title"] = "Log in";
+}
+>>>>>>> frontend
 <link rel="stylesheet" href="~/css/auth.css" />
 
 <div class="logo-in-auth">
@@ -83,6 +90,12 @@
 			Don't have an account? <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Sign Up</a>
 		</p>
 	</div>
+<<<<<<< HEAD
+=======
+	<div class="d-flex justify-content-center">
+	<a class="btn btn-secondary" asp-controller="Home" asp-action="Index">Go home</a>
+	</div>
+>>>>>>> frontend
 </div>
 
 @section Scripts {

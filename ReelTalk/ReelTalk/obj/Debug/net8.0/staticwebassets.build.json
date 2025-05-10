@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "pAfAB4Bk0FQINlETL0kPyNkzIcQhYchnJOM7zixy2tI=",
+=======
+  "Hash": "L3k+lWe7rjoPCuvQIWJtxYu+Bj72IVcA83DFh7F94tw=",
+>>>>>>> frontend
   "Source": "ReelTalk",
   "BasePath": "_content/ReelTalk",
   "Mode": "Default",
@@ -1333,8 +1337,13 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
       "Fingerprint": "elsfwy499c",
       "Integrity": "gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=",
+=======
+      "Fingerprint": "mb5mw2qezm",
+      "Integrity": "jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90=",
+>>>>>>> frontend
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\auth.css"
@@ -1354,8 +1363,13 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
       "Fingerprint": "f506ks57bf",
       "Integrity": "vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE=",
+=======
+      "Fingerprint": "8nij4iam4x",
+      "Integrity": "JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=",
+>>>>>>> frontend
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2696,7 +2710,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "1874"
+=======
+          "Value": "1853"
+>>>>>>> frontend
         },
         {
           "Name": "Content-Type",
@@ -2704,11 +2722,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sat, 10 May 2025 08:11:27 GMT"
+=======
+          "Value": "\"jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 08:13:25 GMT"
+>>>>>>> frontend
         },
         {
           "Name": "Cache-Control",
@@ -2718,12 +2744,20 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="
+=======
+          "Value": "sha256-jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90="
+>>>>>>> frontend
         }
       ]
     },
     {
+<<<<<<< HEAD
       "Route": "css/auth.elsfwy499c.css",
+=======
+      "Route": "css/auth.mb5mw2qezm.css",
+>>>>>>> frontend
       "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\auth.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2733,7 +2767,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "1874"
+=======
+          "Value": "1853"
+>>>>>>> frontend
         },
         {
           "Name": "Content-Type",
@@ -2741,11 +2779,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sat, 10 May 2025 08:11:27 GMT"
+=======
+          "Value": "\"jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 08:13:25 GMT"
+>>>>>>> frontend
         },
         {
           "Name": "Cache-Control",
@@ -2755,7 +2801,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
           "Value": "elsfwy499c"
+=======
+          "Value": "mb5mw2qezm"
+>>>>>>> frontend
         },
         {
           "Name": "label",
@@ -2763,7 +2813,56 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="
+=======
+          "Value": "sha256-jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.8nij4iam4x.css",
+      "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 07:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8nij4iam4x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw="
+>>>>>>> frontend
         }
       ]
     },
@@ -2778,7 +2877,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
           "Value": "1890"
+=======
+          "Value": "2752"
+>>>>>>> frontend
         },
         {
           "Name": "Content-Type",
@@ -2786,11 +2889,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
           "Value": "\"vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sat, 10 May 2025 08:11:27 GMT"
+=======
+          "Value": "\"JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 07:22:36 GMT"
+>>>>>>> frontend
         },
         {
           "Name": "Cache-Control",
@@ -2800,6 +2911,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
           "Value": "sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE="
         }
       ]
@@ -2846,6 +2958,9 @@
         {
           "Name": "integrity",
           "Value": "sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE="
+=======
+          "Value": "sha256-JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw="
+>>>>>>> frontend
         }
       ]
     },

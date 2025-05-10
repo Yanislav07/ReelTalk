@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\adrian\\onedrive\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,6 +15,8 @@
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+=======
+>>>>>>> frontend
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\adrian\\onedrive\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,6 +33,13 @@
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\views\\productions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\adrian\\onedrive\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> frontend
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\adrian\\onedrive\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -76,6 +86,13 @@
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\adrian\\onedrive\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+>>>>>>> frontend
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\adrian\\onedrive\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -163,7 +180,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 8,
+=======
+          "SelectedChildIndex": 5,
+>>>>>>> frontend
           "Children": [
             {
               "$type": "Bookmark",
@@ -187,17 +208,33 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-05-10T07:56:45.599Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwDgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:00:00.717Z",
+>>>>>>> frontend
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 0,
+>>>>>>> frontend
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\ApplicationUser.cs",
@@ -210,7 +247,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 5,
+>>>>>>> frontend
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\ApplicationDbContext.cs",
@@ -223,20 +264,58 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 4,
+>>>>>>> frontend
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Program.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Program.cs",
               "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Program.cs",
               "RelativeToolTip": "ReelTalk\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:22:51.878Z",
+              "EditorCaption": ""
+=======
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T09:22:51.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Delete.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:00:17.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T09:59:27.359Z",
+              "EditorCaption": ""
+>>>>>>> frontend
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+<<<<<<< HEAD
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Delete.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Delete.cshtml",
@@ -289,6 +368,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+=======
+>>>>>>> frontend
               "Title": "Production.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Production.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Production.cs",
@@ -301,7 +382,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 7,
+>>>>>>> frontend
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Genre.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Genre.cs",
@@ -311,10 +396,40 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T09:34:27.762Z",
               "EditorCaption": ""
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Watchlist.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Watchlist.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Data\\Watchlist.cs",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Watchlist.cs",
+              "RelativeToolTip": "ReelTalk\\Data\\Watchlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:35:56.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ReelTalk\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ReelTalk\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-06T15:43:58.578Z",
+              "EditorCaption": ""
+>>>>>>> frontend
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+<<<<<<< HEAD
               "Title": "Watchlist.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Watchlist.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Watchlist.cs",
@@ -341,6 +456,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+=======
+>>>>>>> frontend
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Comments\\Create.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Comments\\Create.cshtml",
@@ -353,7 +470,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
+=======
+              "DocumentIndex": 13,
+>>>>>>> frontend
               "Title": "dbo.Genres.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Genres.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Genres.sql",
@@ -362,7 +483,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
+=======
+              "DocumentIndex": 12,
+>>>>>>> frontend
               "Title": "dbo.Productions.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Productions.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Productions.sql",
@@ -371,7 +496,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 11,
+>>>>>>> frontend
               "Title": "ProductionsController.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\ProductionsController.cs",
@@ -383,6 +512,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 18,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
@@ -408,6 +538,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
+=======
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:22:28.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Create.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Productions\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:45:32.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+>>>>>>> frontend
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Edit.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Edit.cshtml",
@@ -419,6 +576,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Home\\Index.cshtml",
@@ -444,6 +602,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 21,
+=======
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:19:23.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReelTalk\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ReelTalk\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T15:48:14.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReelTalk\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:33:46.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+>>>>>>> frontend
               "Title": "GenresController.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\GenresController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\GenresController.cs",
@@ -455,7 +652,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
+=======
+              "DocumentIndex": 21,
+>>>>>>> frontend
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -467,7 +668,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
+=======
+              "DocumentIndex": 22,
+>>>>>>> frontend
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -479,7 +684,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 24,
+=======
+              "DocumentIndex": 23,
+>>>>>>> frontend
               "Title": "auth.css",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\auth.css",
               "RelativeDocumentMoniker": "ReelTalk\\wwwroot\\css\\auth.css",
@@ -491,7 +700,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 25,
+=======
+              "DocumentIndex": 24,
+>>>>>>> frontend
               "Title": "ReelTalk.csproj",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
               "RelativeDocumentMoniker": "ReelTalk\\ReelTalk.csproj",
@@ -503,7 +716,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 26,
+=======
+              "DocumentIndex": 25,
+>>>>>>> frontend
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -515,7 +732,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 28,
+=======
+              "DocumentIndex": 27,
+>>>>>>> frontend
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -527,7 +748,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 27,
+=======
+              "DocumentIndex": 26,
+>>>>>>> frontend
               "Title": "20250508154800_test.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250508154800_test.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Migrations\\20250508154800_test.cs",
@@ -538,7 +763,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 29,
+=======
+              "DocumentIndex": 28,
+>>>>>>> frontend
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -550,7 +779,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 30,
+=======
+              "DocumentIndex": 29,
+>>>>>>> frontend
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\appsettings.json",
               "RelativeDocumentMoniker": "ReelTalk\\appsettings.json",
@@ -562,7 +795,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 32,
+=======
+              "DocumentIndex": 31,
+>>>>>>> frontend
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Comment.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Comment.cs",
@@ -574,7 +811,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 31,
+=======
+              "DocumentIndex": 30,
+>>>>>>> frontend
               "Title": "IdentitySeeder.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\IdentitySeeder.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\IdentitySeeder.cs",
@@ -586,7 +827,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 33,
+=======
+              "DocumentIndex": 32,
+>>>>>>> frontend
               "Title": "WatchlistProduction.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\WatchlistProduction.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\WatchlistProduction.cs",
@@ -598,7 +843,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 35,
+=======
+              "DocumentIndex": 34,
+>>>>>>> frontend
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Genres\\Index.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Genres\\Index.cshtml",
@@ -610,7 +859,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 34,
+=======
+              "DocumentIndex": 33,
+>>>>>>> frontend
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Genres\\Edit.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Genres\\Edit.cshtml",
@@ -622,7 +875,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 36,
+=======
+              "DocumentIndex": 35,
+>>>>>>> frontend
               "Title": "WatchlistsController.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\WatchlistsController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\WatchlistsController.cs",
@@ -634,7 +891,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 38,
+=======
+              "DocumentIndex": 37,
+>>>>>>> frontend
               "Title": "20250503094459_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250503094459_InitialCreate.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Migrations\\20250503094459_InitialCreate.cs",
@@ -646,7 +907,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 37,
+=======
+              "DocumentIndex": 36,
+>>>>>>> frontend
               "Title": "CommentsController.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\CommentsController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\CommentsController.cs",
