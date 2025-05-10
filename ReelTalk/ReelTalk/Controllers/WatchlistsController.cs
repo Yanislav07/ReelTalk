@@ -41,9 +41,6 @@ namespace ReelTalk.Controllers
             return View(productions);
         }
 
-<<<<<<< HEAD
-
-=======
         [Authorize]
         public async Task<IActionResult> AddToWatchlist(int productionId)
         {
@@ -82,7 +79,31 @@ namespace ReelTalk.Controllers
 
             return RedirectToAction("Details", "Productions", new { id = productionId });
         }
->>>>>>> 514d26546c01867f5e844420f29a90264bf6d418
+
+        [Authorize]
+        public async Task<IActionResult> RemoveFromWatchList(int productionId)
+        {
+            // Fetch the id of the currently logged user
+            var userId = _userManager.GetUserId(User);
+
+            // Fetch one's watchlist via their id
+            var watchlist = await _context.Watchlists
+                .FirstOrDefaultAsync(w => w.UserId == userId);
+
+            if (watchlist == null)
+                return NotFound();
+
+            var watchlistProduction = await _context.WatchlistProduction
+                .FirstOrDefaultAsync(wp => wp.WatchListId == watchlist.Id && wp.ProductionId == productionId);
+
+            if (watchlistProduction == null)
+                return NotFound();
+
+            _context.WatchlistProduction.Remove(watchlistProduction);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+        }
 
         // GET: Watchlists/Details/5
         public async Task<IActionResult> Details(int? id)
