@@ -12,11 +12,7 @@ body {
     color: #F3E6FC;
     font-family: "Roboto", sans-serif;
     margin: 0;
-<<<<<<< HEAD
     padding: 0 ;
-=======
-    padding: 0;
->>>>>>> frontend
 }
 
 .bg-lighter-purple {
@@ -84,10 +80,6 @@ body {
 
     .btn:hover {
         background-color: #61091f;
-<<<<<<< HEAD
-        
-=======
->>>>>>> frontend
     }
 
 /*Movies section*/
@@ -96,8 +88,6 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-top: 1.5rem;
-<<<<<<< HEAD
-=======
     margin-bottom: -1rem;
 }
 
@@ -155,5 +145,4 @@ h3 {
     color: #BC79EF;
     font-size: medium;
     margin: 0;
->>>>>>> frontend
 }

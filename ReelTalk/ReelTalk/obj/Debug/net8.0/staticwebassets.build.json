@@ -1,14 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "C1ea1mhCNbHZRCFmQtPTPGQ5JQWRnwsfYkZr7jYgVFc=",
-=======
-<<<<<<< HEAD
-  "Hash": "pAfAB4Bk0FQINlETL0kPyNkzIcQhYchnJOM7zixy2tI=",
-=======
-  "Hash": "L3k+lWe7rjoPCuvQIWJtxYu+Bj72IVcA83DFh7F94tw=",
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
+  "Hash": "D6A0nQog6wv1RQvhrlm3be0W0p0ybiTkXUIUk1fDaHo=",
   "Source": "ReelTalk",
   "BasePath": "_content/ReelTalk",
   "Mode": "Default",
@@ -1341,18 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "d5n42f74x7",
       "Integrity": "MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY=",
-=======
-<<<<<<< HEAD
-      "Fingerprint": "elsfwy499c",
-      "Integrity": "gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=",
-=======
-      "Fingerprint": "mb5mw2qezm",
-      "Integrity": "jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90=",
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\auth.css"
@@ -1372,18 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-<<<<<<< HEAD
       "Fingerprint": "i0nemigcjm",
       "Integrity": "Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI=",
-=======
-<<<<<<< HEAD
-      "Fingerprint": "f506ks57bf",
-      "Integrity": "vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE=",
-=======
-      "Fingerprint": "8nij4iam4x",
-      "Integrity": "JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=",
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2724,15 +2696,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
           "Value": "1915"
-=======
-<<<<<<< HEAD
-          "Value": "1874"
-=======
-          "Value": "1853"
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         },
         {
           "Name": "Content-Type",
@@ -2740,27 +2704,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
           "Value": "\"MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sat, 10 May 2025 08:18:55 GMT"
-=======
-<<<<<<< HEAD
-          "Value": "\"gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:11:27 GMT"
-=======
-          "Value": "\"jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 08:13:25 GMT"
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         },
         {
           "Name": "Cache-Control",
@@ -2770,28 +2718,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
           "Value": "sha256-MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY="
-=======
-<<<<<<< HEAD
-          "Value": "sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="
-=======
-          "Value": "sha256-jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90="
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         }
       ]
     },
     {
-<<<<<<< HEAD
       "Route": "css/auth.d5n42f74x7.css",
-=======
-<<<<<<< HEAD
-      "Route": "css/auth.elsfwy499c.css",
-=======
-      "Route": "css/auth.mb5mw2qezm.css",
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
       "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\auth.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,15 +2733,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
           "Value": "1915"
-=======
-<<<<<<< HEAD
-          "Value": "1874"
-=======
-          "Value": "1853"
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         },
         {
           "Name": "Content-Type",
@@ -2817,27 +2741,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
           "Value": "\"MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sat, 10 May 2025 08:18:55 GMT"
-=======
-<<<<<<< HEAD
-          "Value": "\"gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:11:27 GMT"
-=======
-          "Value": "\"jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 08:13:25 GMT"
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         },
         {
           "Name": "Cache-Control",
@@ -2847,15 +2755,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-<<<<<<< HEAD
           "Value": "d5n42f74x7"
-=======
-<<<<<<< HEAD
-          "Value": "elsfwy499c"
-=======
-          "Value": "mb5mw2qezm"
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         },
         {
           "Name": "label",
@@ -2863,60 +2763,7 @@
         },
         {
           "Name": "integrity",
-<<<<<<< HEAD
           "Value": "sha256-MZxlsW/Aols5VRdBL5ppTSG1nG9IfHEB5ioOLXAQUoY="
-=======
-<<<<<<< HEAD
-          "Value": "sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="
-=======
-          "Value": "sha256-jrP8m25KllHGISKpc11mH+eWtgMmj286Yy+IC5Sqm90="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.8nij4iam4x.css",
-      "AssetFile": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2752"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:22:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8nij4iam4x"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw="
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         }
       ]
     },
@@ -2931,15 +2778,7 @@
         },
         {
           "Name": "Content-Length",
-<<<<<<< HEAD
           "Value": "2903"
-=======
-<<<<<<< HEAD
-          "Value": "1890"
-=======
-          "Value": "2752"
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         },
         {
           "Name": "Content-Type",
@@ -2947,27 +2786,11 @@
         },
         {
           "Name": "ETag",
-<<<<<<< HEAD
           "Value": "\"Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Sat, 10 May 2025 08:18:55 GMT"
-=======
-<<<<<<< HEAD
-          "Value": "\"vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:11:27 GMT"
-=======
-          "Value": "\"JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:22:36 GMT"
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         },
         {
           "Name": "Cache-Control",
@@ -2977,12 +2800,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-<<<<<<< HEAD
           "Value": "sha256-Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI="
-=======
-<<<<<<< HEAD
-          "Value": "sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE="
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         }
       ]
     },
@@ -3027,14 +2845,7 @@
         },
         {
           "Name": "integrity",
-<<<<<<< HEAD
           "Value": "sha256-Asr0nG5LQaJz1bXuSDsWhwqKOzQZJQP2fJTRgu13JHI="
-=======
-          "Value": "sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj+OANE="
-=======
-          "Value": "sha256-JBEsMGqEytkWpHLWnvChtpWVnsFelpQiA5VeqHDSjOw="
->>>>>>> frontend
->>>>>>> b9230d5574f1fc5c149881a9386e684c1abe5d8b
         }
       ]
     },
@@ -10447,7 +10258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:42:27 GMT"
+          "Value": "Sat, 10 May 2025 09:04:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10484,7 +10295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:42:27 GMT"
+          "Value": "Sat, 10 May 2025 09:04:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10529,7 +10340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:42:27 GMT"
+          "Value": "Sat, 10 May 2025 09:04:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10574,7 +10385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 08:42:27 GMT"
+          "Value": "Sat, 10 May 2025 09:04:32 GMT"
         },
         {
           "Name": "Cache-Control",
