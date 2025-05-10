@@ -1,4 +1,6 @@
-﻿@{
+﻿@model List<ReelTalk.Data.Production>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -21,3 +23,39 @@
     <hr />
 </section>
 
+
+<!-- Main Content -->
+<div class="container my-4">
+    <h2 class="mb-4">Popular Movies & Shows</h2>
+
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+        @foreach (var production in Model)
+        {
+            <div class="col">
+                <div class="card h-100">
+                    <div class="position-relative">
+                        <a href="movie-detail.html">
+                            <img src="@production.ImagePath" class="card-img-top" alt="Inception">
+                        </a>
+                        <div class="rating">
+                            <i class="bi bi-star-fill"></i> 8.8
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@production.Title</h5>
+                        <div class="d-flex justify-content-between align-items-center mb-2">
+                            <span class="text-muted">@production.ReleaseYear</span>
+                            <span class="badge bg-secondary">@production.Type</span>
+                        </div>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="badge bg-primary">@production.Genre</span>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-transparent">
+                        <a href="movie-detail.html" class="btn btn-outline-primary w-100">View Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
