@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "Hash": "QMBbrZyMxj5rX8LLmzikLOPoqREnWwvu+oEXWt0Y0Ac=",
+=======
+  "Hash": "NCbj68tJ3ZB1WzT7O0gecQNwgiH2CHnbcLuqn/bzInY=",
+>>>>>>> Stashed changes
   "Source": "ReelTalk",
   "BasePath": "_content/ReelTalk",
   "Mode": "Default",
@@ -2708,7 +2712,56 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< Updated upstream
           "Value": "Thu, 08 May 2025 15:28:21 GMT"
+=======
+          "Value": "Sat, 10 May 2025 06:16:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c2tiyv64ts"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Yanis\\Documents\\За училище\\11 клас\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 06:16:48 GMT"
+>>>>>>> Stashed changes
         },
         {
           "Name": "Cache-Control",

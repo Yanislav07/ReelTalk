@@ -3,6 +3,7 @@
     <StaticWebAssetEndpoint Include="_content/ReelTalk/css/auth.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\auth.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
+<<<<<<< Updated upstream
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1874"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 15:28:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
@@ -11,10 +12,15 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"elsfwy499c"},{"Name":"integrity","Value":"sha256-gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk="},{"Name":"label","Value":"_content/ReelTalk/css/auth.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1874"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022gqZuvVAO4u91tg4ir975xqn5DrFOVTSXL2VwdEB9SYk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 15:28:21 GMT"}]]]></ResponseHeaders>
+=======
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2tiyv64ts"},{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="},{"Name":"label","Value":"_content/ReelTalk/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 06:16:48 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ReelTalk/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
+<<<<<<< Updated upstream
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj\u002BOANE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj\u002BOANE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 15:28:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
@@ -23,6 +29,10 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f506ks57bf"},{"Name":"integrity","Value":"sha256-vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj\u002BOANE="},{"Name":"label","Value":"_content/ReelTalk/css/site.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vSXrNJHUe0uC7RuYM6LjEXPZnURIOvJBP50DCj\u002BOANE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 08 May 2025 15:28:21 GMT"}]]]></ResponseHeaders>
+=======
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 06:16:48 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ReelTalk/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

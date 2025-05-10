@@ -2368,7 +2368,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< Updated upstream
           "Value": "Thu, 08 May 2025 15:28:21 GMT"
+=======
+          "Value": "Sat, 10 May 2025 06:16:48 GMT"
+>>>>>>> Stashed changes
         }
       ],
       "EndpointProperties": [
@@ -2413,7 +2417,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< Updated upstream
           "Value": "Thu, 08 May 2025 15:28:21 GMT"
+=======
+          "Value": "Sat, 10 May 2025 06:16:48 GMT"
+>>>>>>> Stashed changes
         }
       ],
       "EndpointProperties": [
