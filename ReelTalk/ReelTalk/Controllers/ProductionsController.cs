@@ -46,8 +46,10 @@ namespace ReelTalk.Controllers
             }
 
             var comments = await _context.Comments
+                .Include(c => c.User)
                 .Where(c => c.ProductionId == id)
                 .ToListAsync();
+
 
             var productionWithComments = new ProductionWithComments(production, comments);
 

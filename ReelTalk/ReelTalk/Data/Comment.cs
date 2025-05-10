@@ -1,4 +1,6 @@
-﻿namespace ReelTalk.Data
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace ReelTalk.Data
 {
     public class Comment
     {
@@ -10,7 +12,7 @@
         public virtual Production? Production { get; set; }
 
         public string UserId { get; set; }
-        public ApplicationUser User { get; set; }
+        public IdentityUser User { get; set; }
 
         public Comment()
         {

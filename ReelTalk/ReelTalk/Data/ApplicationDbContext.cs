@@ -21,6 +21,12 @@ namespace ReelTalk.Data
         {
             base.OnModelCreating(modelBuilder);
 
+            modelBuilder.Entity<Comment>()
+                .HasOne(c => c.User)
+                .WithMany()
+                .HasForeignKey(c => c.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+
             // Configure many-to-many relationship
             modelBuilder.Entity<WatchlistProduction>()
                 .HasKey(wp => new { wp.WatchListId, wp.ProductionId });

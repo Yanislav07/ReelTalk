@@ -11,7 +11,10 @@
 			Save those you want to see.<br />
 			Tell your friends what's good.
 		</h1>
-		<a class="btn btn-primary py-1 px-3 fs-4 mt-2" asp-area="Identity" asp-page="/Account/Register">Get started</a>
+		@if (!User.Identity.IsAuthenticated) 
+		{
+			<a class="btn btn-primary py-1 px-3 fs-4 mt-2" asp-area="Identity" asp-page="/Account/Register">Get started</a>
+		}
 	</div>
 </section>
 

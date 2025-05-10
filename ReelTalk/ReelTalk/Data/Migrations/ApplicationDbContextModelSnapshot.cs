@@ -237,6 +237,9 @@ namespace ReelTalk.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("ApplicationUserId")
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<string>("Content")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -253,11 +256,13 @@ namespace ReelTalk.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("ApplicationUserId");
+
                     b.HasIndex("ProductionId");
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Comments");
+                    b.ToTable("Comments", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.Genre", b =>
@@ -274,7 +279,7 @@ namespace ReelTalk.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Genres");
+                    b.ToTable("Genres", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.Production", b =>
@@ -314,7 +319,7 @@ namespace ReelTalk.Migrations
 
                     b.HasIndex("GenreId");
 
-                    b.ToTable("Productions");
+                    b.ToTable("Productions", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.Watchlist", b =>
@@ -334,7 +339,7 @@ namespace ReelTalk.Migrations
                     b.HasIndex("UserId")
                         .IsUnique();
 
-                    b.ToTable("Watchlists");
+                    b.ToTable("Watchlists", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.WatchlistProduction", b =>
@@ -352,7 +357,7 @@ namespace ReelTalk.Migrations
 
                     b.HasIndex("ProductionId");
 
-                    b.ToTable("WatchlistProduction");
+                    b.ToTable("WatchlistProduction", (string)null);
                 });
 
             modelBuilder.Entity("ReelTalk.Data.ApplicationUser", b =>
@@ -415,6 +420,10 @@ namespace ReelTalk.Migrations
 
             modelBuilder.Entity("ReelTalk.Data.Comment", b =>
                 {
+                    b.HasOne("ReelTalk.Data.ApplicationUser", null)
+                        .WithMany("Comments")
+                        .HasForeignKey("ApplicationUserId");
+
                     b.HasOne("ReelTalk.Data.Production", "Production")
                         .WithMany("Comments")
                         .HasForeignKey("ProductionId")
@@ -422,7 +431,7 @@ namespace ReelTalk.Migrations
                         .IsRequired();
 
                     b.HasOne("ReelTalk.Data.ApplicationUser", "User")
-                        .WithMany("Comments")
+                        .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -12,10 +13,12 @@ namespace ReelTalk.Controllers
     public class WatchlistsController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly UserManager<IdentityUser> _userManager;
 
-        public WatchlistsController(ApplicationDbContext context)
+        public WatchlistsController(ApplicationDbContext context, UserManager<IdentityUser> userManager)
         {
             _context = context;
+            _userManager = userManager;
         }
 
         // GET: Watchlists
@@ -23,6 +26,21 @@ namespace ReelTalk.Controllers
         {
             var applicationDbContext = _context.Watchlists.Include(w => w.User);
             return View(await applicationDbContext.ToListAsync());
+        }
+
+        public async Task<IActionResult> AddToWatchlist(int? productionId)
+        {
+            // Fetch the id of the currently logged user
+            var userId = _userManager.GetUserId(User);
+
+            var watchlist = await _context.Watchlists
+                .Include(w => w.WatchlistProductions)
+                .FirstOrDefaultAsync(w => w.UserId == userId);
+
+            if (watchlist != null)
+            {
+
+            }
         }
 
         // GET: Watchlists/Details/5
