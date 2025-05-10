@@ -368,3 +368,7 @@ C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\obj\Debug\net8.0\
 C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\obj\Debug\net8.0\ref\ReelTalkTests.dll
 C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\bin\Debug\net8.0\Moq.dll
+C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kami\Documents\GitHub\ReelTalk\ReelTalk\ReelTalkTests\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

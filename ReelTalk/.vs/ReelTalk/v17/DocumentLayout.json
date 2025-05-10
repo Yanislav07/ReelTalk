@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\reeltalktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\reeltalktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\controllers\\watchlistscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\watchlistscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\controllers\\watchlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\controllers\\watchlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\controllers\\productioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\productioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\controllers\\productionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +23,40 @@
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\controllers\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\controllers\\genrescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\genrescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\controllers\\commentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\commentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\controllers\\administrationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\controllers\\administrationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\errorviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\errorviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\reeltalktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|solutionrelative:reeltalktests\\reeltalktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalk\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B261651A-937D-419F-9C28-750059B7CABA}|ReelTalk\\ReelTalk.csproj|solutionrelative:reeltalk\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F82AD40-BFA6-4ACA-A9BD-13AAECFC2D6A}|ReelTalkTests\\ReelTalkTests.csproj|c:\\users\\kami\\documents\\github\\reeltalk\\reeltalk\\reeltalktests\\userwithroletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -214,11 +234,171 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchlistsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs*",
+              "RelativeToolTip": "ReelTalkTests\\Controllers\\WatchlistsControllerTests.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:20:27.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductionControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\ProductionControllerTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\ProductionControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\ProductionControllerTests.cs",
+              "RelativeToolTip": "ReelTalkTests\\Controllers\\ProductionControllerTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:08:22.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\HomeControllerTests.cs",
+              "RelativeToolTip": "ReelTalkTests\\Controllers\\HomeControllerTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:06:26.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "GenresControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\GenresControllerTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\GenresControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\GenresControllerTests.cs",
+              "RelativeToolTip": "ReelTalkTests\\Controllers\\GenresControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:05:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\CommentsControllerTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\CommentsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\CommentsControllerTests.cs",
+              "RelativeToolTip": "ReelTalkTests\\Controllers\\CommentsControllerTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:57:30.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "ReelTalk\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:41:30.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatchlistsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\WatchlistsController.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\WatchlistsController.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\WatchlistsController.cs",
+              "RelativeToolTip": "ReelTalk\\Controllers\\WatchlistsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:42:42.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ErrorViewModelTests.cs",
+              "RelativeDocumentMoniker": "ReelTalkTests\\ErrorViewModelTests.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ErrorViewModelTests.cs",
+              "RelativeToolTip": "ReelTalkTests\\ErrorViewModelTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:24:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\ProductionsController.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
+              "RelativeToolTip": "ReelTalk\\Controllers\\ProductionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:42:00.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReelTalk\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:33:46.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReelTalkTests",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
+              "RelativeDocumentMoniker": "ReelTalkTests\\ReelTalkTests.csproj",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
+              "RelativeToolTip": "ReelTalkTests\\ReelTalkTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T15:51:31.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "ReelTalk\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:45.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AdministrationControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\Controllers\\AdministrationControllerTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\Controllers\\AdministrationControllerTests.cs",
@@ -231,98 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReelTalkTests",
-              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
-              "RelativeDocumentMoniker": "ReelTalkTests\\ReelTalkTests.csproj",
-              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ReelTalkTests.csproj",
-              "RelativeToolTip": "ReelTalkTests\\ReelTalkTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T15:51:31.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WatchlistsController.cs",
-              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\WatchlistsController.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\WatchlistsController.cs",
-              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\WatchlistsController.cs",
-              "RelativeToolTip": "ReelTalk\\Controllers\\WatchlistsController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAMwB4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:42:42.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ReelTalk\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:33:46.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\CommentsController.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\CommentsController.cs",
-              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\CommentsController.cs",
-              "RelativeToolTip": "ReelTalk\\Controllers\\CommentsController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:41:30.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenresController.cs",
-              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\GenresController.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\GenresController.cs",
-              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\GenresController.cs",
-              "RelativeToolTip": "ReelTalk\\Controllers\\GenresController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwBEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:40:45.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductionsController.cs",
-              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
-              "RelativeDocumentMoniker": "ReelTalk\\Controllers\\ProductionsController.cs",
-              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\ProductionsController.cs",
-              "RelativeToolTip": "ReelTalk\\Controllers\\ProductionsController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAgwE4AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:42:00.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorViewModelTests.cs",
-              "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ErrorViewModelTests.cs",
-              "RelativeDocumentMoniker": "ReelTalkTests\\ErrorViewModelTests.cs",
-              "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ErrorViewModelTests.cs",
-              "RelativeToolTip": "ReelTalkTests\\ErrorViewModelTests.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T15:24:57.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "UserWithRoleTests.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\UserWithRoleTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\UserWithRoleTests.cs",
@@ -335,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ProductionWithCommentsTests.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalkTests\\ProductionWithCommentsTests.cs",
               "RelativeDocumentMoniker": "ReelTalkTests\\ProductionWithCommentsTests.cs",
@@ -348,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Watchlist.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Watchlist.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Watchlist.cs",
@@ -361,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "WatchlistProduction.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\WatchlistProduction.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\WatchlistProduction.cs",
@@ -369,11 +458,12 @@
               "RelativeToolTip": "ReelTalk\\Data\\WatchlistProduction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:36:02.339Z"
+              "WhenOpened": "2025-05-03T09:36:02.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "AdministrationController.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\AdministrationController.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Controllers\\AdministrationController.cs",
@@ -386,19 +476,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Index.cshtml",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Index.cshtml",
               "RelativeToolTip": "ReelTalk\\Views\\Productions\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T09:59:27.359Z"
+              "WhenOpened": "2025-05-03T09:59:27.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Shared\\_Layout.cshtml",
@@ -406,11 +497,12 @@
               "RelativeToolTip": "ReelTalk\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:19:23.556Z"
+              "WhenOpened": "2025-05-06T15:19:23.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Watchlists\\Index.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Watchlists\\Index.cshtml",
@@ -418,11 +510,12 @@
               "RelativeToolTip": "ReelTalk\\Views\\Watchlists\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T14:23:25.543Z"
+              "WhenOpened": "2025-05-10T14:23:25.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Home\\Index.cshtml",
@@ -430,11 +523,12 @@
               "RelativeToolTip": "ReelTalk\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:48:14.978Z"
+              "WhenOpened": "2025-05-06T15:48:14.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Program.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Program.cs",
@@ -442,11 +536,12 @@
               "RelativeToolTip": "ReelTalk\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:22:51.878Z"
+              "WhenOpened": "2025-05-03T09:22:51.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "UserWithRole.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Models\\UserWithRole.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Models\\UserWithRole.cs",
@@ -459,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ProductionWithComments.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Models\\ProductionWithComments.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Models\\ProductionWithComments.cs",
@@ -476,19 +571,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Details.cshtml",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Details.cshtml",
               "RelativeToolTip": "ReelTalk\\Views\\Productions\\Details.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T10:00:00.717Z"
+              "WhenOpened": "2025-05-03T10:00:00.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\ApplicationDbContext.cs",
@@ -496,47 +592,51 @@
               "RelativeToolTip": "ReelTalk\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:50:40.936Z"
+              "WhenOpened": "2025-05-03T08:50:40.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Comment.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Comment.cs",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Comment.cs",
               "RelativeToolTip": "ReelTalk\\Data\\Comment.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:27:09.128Z"
+              "WhenOpened": "2025-05-03T09:27:09.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T10:56:57.416Z"
+              "WhenOpened": "2025-05-03T10:56:57.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T08:33:38.934Z"
+              "WhenOpened": "2025-05-03T08:33:38.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -544,11 +644,12 @@
               "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAADwv3kAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T13:31:25.385Z"
+              "WhenOpened": "2025-05-08T13:31:25.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -556,11 +657,12 @@
               "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAADwv3oAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T10:56:59.911Z"
+              "WhenOpened": "2025-05-03T10:56:59.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "20250510121832_UpdateComment.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250510121832_UpdateComment.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Migrations\\20250510121832_UpdateComment.cs",
@@ -568,11 +670,12 @@
               "RelativeToolTip": "ReelTalk\\Data\\Migrations\\20250510121832_UpdateComment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:34:06.65Z"
+              "WhenOpened": "2025-05-10T13:34:06.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Models\\ErrorViewModel.cs",
@@ -580,59 +683,58 @@
               "RelativeToolTip": "ReelTalk\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T09:43:51.581Z"
+              "WhenOpened": "2025-05-10T09:43:51.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "20250510104859_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104859_InitialCreate.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104859_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104859_InitialCreate.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104859_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T10:48:59.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "20250510104832_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104832_InitialCreate.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104832_InitialCreate.cs",
               "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104832_InitialCreate.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Migrations\\20250510104832_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T10:48:32.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "20250510104513_UpdateDb.cs",
               "DocumentMoniker": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250510104513_UpdateDb.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250510104513_UpdateDb.cs",
               "ToolTip": "C:\\Users\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250510104513_UpdateDb.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Yanis\\Documents\\\u0417\u0430 \u0443\u0447\u0438\u043B\u0438\u0449\u0435\\11 \u043A\u043B\u0430\u0441\\ItKarietra\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250510104513_UpdateDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T10:45:13.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Delete.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Delete.cshtml",
               "RelativeToolTip": "ReelTalk\\Views\\Productions\\Delete.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T10:00:17.652Z"
+              "WhenOpened": "2025-05-03T10:00:17.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -640,11 +742,12 @@
               "RelativeToolTip": "ReelTalk\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T08:14:16.334Z"
+              "WhenOpened": "2025-05-08T08:14:16.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Adrian\\source\\repos\\ReelTalk\\ReelTalk\\ReelTalk\\Controllers\\HomeController.cs",
@@ -655,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\ApplicationUser.cs",
@@ -663,11 +766,12 @@
               "RelativeToolTip": "ReelTalk\\Data\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:36:07.419Z"
+              "WhenOpened": "2025-05-03T09:36:07.419Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "dbo.AspNetUsers.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.AspNetUsers.sql",
@@ -676,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "Production.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Production.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Production.cs",
@@ -684,11 +788,12 @@
               "RelativeToolTip": "ReelTalk\\Data\\Production.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAxwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:34:35.395Z"
+              "WhenOpened": "2025-05-03T09:34:35.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Genre.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\Genre.cs",
@@ -696,23 +801,25 @@
               "RelativeToolTip": "ReelTalk\\Data\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:34:27.762Z"
+              "WhenOpened": "2025-05-03T09:34:27.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ReelTalk\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ReelTalk\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAFgAAAAAAAAAAIBJwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAIBZwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-06T15:43:58.578Z"
+              "WhenOpened": "2025-05-06T15:43:58.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Comments\\Create.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Comments\\Create.cshtml",
@@ -720,11 +827,12 @@
               "RelativeToolTip": "ReelTalk\\Views\\Comments\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T07:06:53.598Z"
+              "WhenOpened": "2025-05-10T07:06:53.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "dbo.Genres.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Genres.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Genres.sql",
@@ -733,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "dbo.Productions.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Productions.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReelTalkDB/True/SqlTable/dbo.Productions.sql",
@@ -742,7 +850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 49,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
@@ -750,23 +858,25 @@
               "RelativeToolTip": "ReelTalk\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T15:22:28.003Z"
+              "WhenOpened": "2025-05-06T15:22:28.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Create.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Create.cshtml",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Create.cshtml",
               "RelativeToolTip": "ReelTalk\\Views\\Productions\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAIBJwDkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBZwDkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T15:45:32.531Z"
+              "WhenOpened": "2025-05-08T15:45:32.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Productions\\Edit.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Productions\\Edit.cshtml",
@@ -774,23 +884,25 @@
               "RelativeToolTip": "ReelTalk\\Views\\Productions\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwDgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T09:59:48.029Z"
+              "WhenOpened": "2025-05-03T09:59:48.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "auth.css",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\auth.css",
               "RelativeDocumentMoniker": "ReelTalk\\wwwroot\\css\\auth.css",
               "ToolTip": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\wwwroot\\css\\auth.css",
               "RelativeToolTip": "ReelTalk\\wwwroot\\css\\auth.css",
-              "ViewState": "AgIAABsAAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBZwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-08T13:34:01.301Z"
+              "WhenOpened": "2025-05-08T13:34:01.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 51,
               "Title": "ReelTalk.csproj",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
               "RelativeDocumentMoniker": "ReelTalk\\ReelTalk.csproj",
@@ -803,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "20250508154800_test.cs",
               "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250508154800_test.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\Migrations\\20250508154800_test.cs",
@@ -814,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\appsettings.json",
               "RelativeDocumentMoniker": "ReelTalk\\appsettings.json",
@@ -822,11 +934,12 @@
               "RelativeToolTip": "ReelTalk\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-03T10:41:51.74Z"
+              "WhenOpened": "2025-05-03T10:41:51.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 54,
               "Title": "IdentitySeeder.cs",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Data\\IdentitySeeder.cs",
               "RelativeDocumentMoniker": "ReelTalk\\Data\\IdentitySeeder.cs",
@@ -834,11 +947,12 @@
               "RelativeToolTip": "ReelTalk\\Data\\IdentitySeeder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:22:10.63Z"
+              "WhenOpened": "2025-05-03T09:22:10.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Genres\\Index.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Genres\\Index.cshtml",
@@ -846,11 +960,12 @@
               "RelativeToolTip": "ReelTalk\\Views\\Genres\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T09:43:32.737Z"
+              "WhenOpened": "2025-05-03T09:43:32.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\Views\\Genres\\Edit.cshtml",
               "RelativeDocumentMoniker": "ReelTalk\\Views\\Genres\\Edit.cshtml",
@@ -858,7 +973,8 @@
               "RelativeToolTip": "ReelTalk\\Views\\Genres\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T09:59:04.866Z"
+              "WhenOpened": "2025-05-03T09:59:04.866Z",
+              "EditorCaption": ""
             }
           ]
         }

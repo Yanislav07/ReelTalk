@@ -28,7 +28,7 @@ namespace ReelTalk.Controllers
             return View(await applicationDbContext.ToListAsync());
         }
 
-    
+
 
         // GET: Watchlists/Details/5
         public async Task<IActionResult> Details(int? id)
