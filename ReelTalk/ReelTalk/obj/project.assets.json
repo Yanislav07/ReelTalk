@@ -8358,39 +8358,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Kami\\.nuget\\packages\\": {},
-=======
     "C:\\Users\\Adrian\\.nuget\\packages\\": {},
->>>>>>> 514d26546c01867f5e844420f29a90264bf6d418
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
-      "projectName": "ReelTalk",
-      "projectPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
-      "packagesPath": "C:\\Users\\Kami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kami\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
       "projectName": "ReelTalk",
       "projectPath": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\ReelTalk.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\",
->>>>>>> 514d26546c01867f5e844420f29a90264bf6d418
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\Kami\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 514d26546c01867f5e844420f29a90264bf6d418
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8474,5 +8458,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Adrian\\OneDrive\\Documents\\GitHub\\ReelTalk\\ReelTalk\\ReelTalk\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
