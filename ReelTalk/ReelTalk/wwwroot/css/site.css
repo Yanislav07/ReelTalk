@@ -95,7 +95,7 @@ body {
     aspect-ratio: 2/3;
     object-fit: cover;
     transition: transform 0.3s ease-in-out;
-    margin-bottom: 5rem;
+    margin-bottom:4rem;
 }
 
     .card-img:hover {
@@ -124,6 +124,7 @@ input.form-control:focus {
 
     .form-control:focus {
         background-color: #11031B;
+        color: #F3E6FC;
     }
 
 hr {
