@@ -1,22 +1,21 @@
 ﻿@model IEnumerable<ReelTalk.Data.Production>
 
 @{
-	Layout = null;
+	Layout = "_Layout";
 }
 
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>My Wishlist - MovieHub</title>
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 </head>
 <body>
 	<div class="container my-5">
-		<h2 class="mb-4">My Wishlist</h2>
+		<h2 class="mb-4">My Watchlist</h2>
 
 		<!-- Wishlist Items Grid -->
-		<div class="row row-cols-2 row-cols-md-4 row-cols-lg-6 g-3">
+		@* <div class="row row-cols-2 row-cols-md-4 row-cols-lg-6 g-3">
 			@foreach (var item in Model)
 			{
 				<div class="col">
@@ -39,7 +38,33 @@
 						</div>
 					</div>
 				</div>
-			}
+			} *@
+		<div class="container-fluid">
+			<div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">
+				@if (Model == null) {
+					<p>There are no movies in the watchlist</p>
+				}
+				else {
+					@foreach (var item in Model)
+					{
+						<div>
+							<a asp-controller="Productions" asp-action="Details" asp-route-id="@item.Id">
+								<div class="card border-0 bg-transparent">
+									<img src="@item.ImagePath"
+										 class=" rounded-3 shadow"
+										 alt="@item.Title" />
+								</div>
+							</a>
+							<form asp-controller="Watchlists" asp-action="RemoveFromWatchlist">
+								<input type="hidden" name="productionId" value="@item.Id" />
+								<button class="btn btn-sm btn-danger w-50 mt-2 ms-5" data-bs-toggle="modal" data-bs-target="#removeModal" data-movie-id="1" data-movie-title="Inception">
+									Remove
+								</button>
+							</form>
+						</div>
+					}
+				}
+			</div>
 		</div>
 	</div>
 </body>

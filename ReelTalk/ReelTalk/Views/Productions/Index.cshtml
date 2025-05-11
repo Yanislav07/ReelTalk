@@ -12,9 +12,12 @@
 	<title>Index</title>
 </head>
 <body>
-	<p>
-		<a asp-action="Create" class="btn btn-primary ms-4 my-2">Create New</a>
-	</p>
+	@if (User.IsInRole("Admin") || User.IsInRole("Moderator")) 
+	{
+		<p>
+			<a asp-action="Create" class="btn btn-primary ms-4 my-2">Create New</a>
+		</p>
+	}
 
 	<div class="container-fluid px-4">
 		<div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">

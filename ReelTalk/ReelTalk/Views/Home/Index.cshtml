@@ -18,13 +18,12 @@
 	</div>
 </section>
 
-<section class="movies-section">
+<section class="movies-section container-fluid">
 	<div class="movies-header px-3">
 		<h1 class="fs-2">Trending now</h1>
-		<a class="text-decoration-none text-white" asp-area="" asp-controller="Productions" asp-action="Index">MORE</a>
 	</div>
 
-	<div class="container-fluid px-4">
+	<div class=" px-4">
 		<hr/>
 		<div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-3">
 			@foreach (var item in Model)

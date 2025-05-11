@@ -4,57 +4,70 @@
     ViewData["Title"] = "Dashboard";
 }
 
-<div class="container py-4">
-    <div class="table-responsive">
-        <table class="table table-bordered table-striped table-hover table-sm align-middle">
-            <thead class="table-dark">
-                <tr>Email</tr>
-                <tr>Role</tr>
-                <tr>ChangeRoleTo</tr>
-            </thead>
-            <tbody>
-                @foreach (var user in Model)
-                {
-                    if (user.CurrentRole != "Admin")
-                    {
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar -->
+        <div class="col-md-2 sidebar p-3">
+            <h5 class="mb-3">Admin Menu</h5>
+            <div class="list-group bg-transparent">
+                <a asp-action="Index" class="list-group-item list-group-item-action active">
+                    <i class="bi bi-people"></i> Manage Users
+                </a>
+                <a asp-controller="Genres" asp-action="Index" class="list-group-item list-group-item-action">
+                    <i class="bi bi-tags"></i> Create Genre
+                </a>
+                <a asp-controller="Productions" asp-action="Index" class="list-group-item list-group-item-action">
+                    <i class="bi bi-film"></i> Create Production
+                </a>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="col-md-10 p-4">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h2>User Management</h2>
+            </div>
+
+            <!-- User Table -->
+            <div class="table-responsive">
+                <table class="table table-striped table-hover text-white">
+                    <thead class="text-white">
                         <tr>
-                            <td>@user.Email</td>
-                            <td>@user.CurrentRole</td>
-                            <td>
-                                <form asp-action="AlterRole">
-                                    <input type="hidden" name="userId" value="@user.UserId" />
-                                    <select name="role">
-                                        <option value="">Choose new role</option>
-                                        <option value="Moderator">Moderator</option>
-                                        <option value="User">Regular user</option>
-                                    </select>
-
-                                    <button type="submit">Alter role</button>
-                                </form>
-                            </td>
+                            <th>Email</th>
+                            <th>Current Role</th>
+                            <th>Change Role</th>
                         </tr>
-                    }
-                }
-            </tbody>
-        </table>
-    </div>
-</div>
+                    </thead>
+                    <tbody class="text-white">
+                        @foreach (var user in Model)
+                        {
+                            if (user.CurrentRole != "Admin")
+                            {
+                                <tr>
+                                    <td class="text-white">@user.Email</td>
+                                    <td class="text-white">@user.CurrentRole</td>
 
-<div class="justify-content-xxl-start">
-    <h1>Management</h1> <br />
-    <div class="btn-group-vertical gap-2">
-        <ul class="text-decoration-none gap-2">
-            <li>
-                <a class="btn-primary text-decoration-none rounded-2 pe-3 ps-3 p-1" asp-action="Index">Users</a>
-            </li>
-            <br />
-            <li>
-                <a class="btn-primary text-decoration-none rounded-2 pe-3 ps-3 p-1" asp-controller="Genres" asp-action="Index">Genres</a>
-            </li>
-            <br />
-            <li>
-                <a class="btn-primary text-decoration-none rounded-2 pe-3 ps-3 p-1" asp-controller="Productions" asp-action="Index">Productions</a>
-            </li>
-        </ul>
+                                    <td>
+                                        <form asp-action="AlterRole">
+                                            <input type="hidden" name="userId" value="@user.UserId" />
+                                            <select name="role">
+                                                <option value="">Choose new role</option>
+                                                <option value="Moderator">Moderator</option>
+                                                <option value="User">Regular user</option>
+                                            </select>
+
+                                            <button type="submit" class="btn btn-sm btn-success me-1">
+                                                <i class="bi bi-check-lg"></i> Apply
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        }                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
 </div>
